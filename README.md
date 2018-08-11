@@ -1,10 +1,15 @@
 # drumsshop
 Project test as test for Inbox Agency Company
 
-This project was build using Laravel Framework 5.4 and Eloquent ORM
+This project was built using Laravel Framework 5.4 and Eloquent ORM
 
 MVC Project Structure:
+ - Controllers (/app/Http/Controllers)
+ - Models (/app)
+ - Views (/resources/views)
+ - Database structure (/database/migrations)
+ - Routes (/routes)
 
-Controllers (/app/Http/Controllers)
-Models (/app)
-Views (/vies
+Important Notes:
+There's no one single sql statement write in this project.
+All data access and table relations was made under Eloquent ORM.
