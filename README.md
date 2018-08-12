@@ -1,4 +1,4 @@
-# drumsshop
+# drumshop
 Project test as test for Inbox Agency Company
 
 This project was built using Laravel Framework 5.4 and Eloquent ORM
